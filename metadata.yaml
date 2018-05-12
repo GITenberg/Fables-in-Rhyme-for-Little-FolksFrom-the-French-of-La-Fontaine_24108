@@ -1,0 +1,51 @@
+_repo: Fables-in-Rhyme-for-Little-FolksFrom-the-French-of-La-Fontaine_24108
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rae, John
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '26297'
+    url: http://www.gutenberg.org/2009/agents/26297
+  translator:
+    agent_name: Larned, W. T. (William Trowbridge)
+    aliases:
+    - Larned, W.T.
+    - Larned, William Trowbridge
+    gutenberg_agent_id: '26253'
+    url: http://www.gutenberg.org/2009/agents/26253
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Fontaine, Jean de
+    aliases:
+    - De La Fontaine, Jean
+    - Fontaine, Jean de La
+    birthdate: 1621
+    deathdate: 1695
+    gutenberg_agent_id: '1758'
+    url: http://www.gutenberg.org/2009/agents/1758
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
+description: ''
+gutenberg_bookshelf:
+- Children's Verse
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2008-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PQ'
+- !lcc 'PZ'
+- !lcsh 'Fables'
+title: 'Fables in Rhyme for Little Folks
+
+  From the French of La Fontaine'
+url: http://www.gutenberg.org/ebooks/24108
