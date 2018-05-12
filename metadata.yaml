@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1758
     wikipedia: http://en.wikipedia.org/wiki/Jean_de_La_Fontaine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24108#Fables-in-Rhyme-for-Little-FolksFrom-the-French-of-La-Fontaine
 gutenberg_bookshelf:
 - Children's Verse
 - Children's Myths, Fairy Tales, etc.
